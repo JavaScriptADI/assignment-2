@@ -1,4 +1,5 @@
 # Assignment 2
+Work in `src/` directory. Ignore other files, just use or create a new js file and solve the following questions in it. Sometimes it might be better to create additional files for different tasks. For example, if you are working on a task that requires a lot of code, you can create a separate file for that task.
 Variables; Data Types (number, string, boolean, undefined, null); prompt; comparison and logical operators; type conversion
 
 
