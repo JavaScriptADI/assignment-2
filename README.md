@@ -1,4 +1,4 @@
-# Assignmen
+# Assignments
 ---
 
 ### ✅ Task 1: Even or Odd Checker
